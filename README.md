@@ -1,6 +1,6 @@
 Hi! Here is cclucky.
 
-blog:www.cclucky.online
+My blog is www.cclucky.online
 
 Welcome to follow me and subscribe to me!
 
