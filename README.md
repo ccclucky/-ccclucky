@@ -9,6 +9,6 @@ Welcome to follow me and subscribe to me!
 - 💬 Ask me about anything in www.cclucky.online
 
 <div align="left">
-  <img src="https://github-readme-stats-eosin-sigma-28.vercel.app/api?username=ccclucky&show_icons=true&theme=transparent" /> 
+  <img src="github-readme-stats-eosin-sigma-28.vercel.app/api?username=ccclucky&show_icons=true&theme=transparent" /> 
 </div>
 
