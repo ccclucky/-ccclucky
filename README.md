@@ -7,16 +7,7 @@
 
 Welcome to my GitHub page! I am cclucky, a Computer Science student from China, passionate about technology and constantly looking for ways to improve my skills. I'm currently preparing for internships and job opportunities.
 
-<div style="display: flex; justify-content: space-between;">
-  <div style="width: 40%;">
-    <img alt="img" src="https://github.com/FernandoRoldan93/FernandoRoldan93/blob/master/cover_image.jpg" width="100%" />
-  </div>
-  <div style="width: 55%;">
-    <div style="margin-bottom: 10px;">
-      <img src="https://github-readme-stats.vercel.app/api?username=ccclucky&show_icons=true&hide_border=true&count_private=true" width="100%" />
-    </div>
-    <div>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ccclucky&show_icons=true&hide_border=true&count_private=true&layout=compact" width="100%" />
-    </div>
-  </div>
-</div>
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=ccclucky&show_icons=true&hide_border=true&count_private=true&layout=compact" width="45%" />
+<img src="https://github-readme-stats.vercel.app/api?username=ccclucky&show_icons=true&hide_border=true&count_private=true" width="45%" />
+
+
