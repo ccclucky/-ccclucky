@@ -38,6 +38,7 @@ Welcome to my Github page! I am Fernando and I am currently finishing my Compute
 #### :computer: Programming languages and tools: 
 <p>
 	<img width="50%" align="right" src="https://github-readme-stats.vercel.app/api?username=ccclucky&show_icons=true&hide_border=true&count_private=true" />
+ <img width="50%" align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=ccclucky&show_icons=true&hide_border=true&count_private=true" />
  
 
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg"></code>
